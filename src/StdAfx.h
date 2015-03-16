@@ -1,3 +1,6 @@
 #pragma once
 
-#include "csaru-serialization-cpp.h"
+#include <cassert>
+
+#include <csaru-container-cpp.h>
+#include <csaru-serialization-cpp.h>

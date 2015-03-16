@@ -12,6 +12,9 @@
     <ClCompile Include="$(ProjectDir)src\StdAfx.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\SaruSerialization.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="$(ProjectDir)src\StdAfx.h">
@@ -19,6 +22,9 @@
     </ClInclude>
     <ClInclude Include="$(ProjectDir)include\csaru-serialization-cpp.h">
       <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SaruSerialization.hpp">
+      <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
