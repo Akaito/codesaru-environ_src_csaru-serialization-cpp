@@ -15,4 +15,5 @@ set(CXX_STANDARD_REQUIRED true)
 set_property(TARGET ${PROJECT_NAME} PROPERTY CXX_STANDARD 11)
 
 CSaru_Depends("csaru-core-cpp")
+CSaru_Depends("csaru-container-cpp")
 
