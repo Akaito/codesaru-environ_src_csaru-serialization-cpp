@@ -22,8 +22,8 @@ freely, subject to the following restrictions:
 
 #include <cstdlib>
 
-#include <csaru-container-cpp/DataMapMutator.hpp>
-#include <csaru-container-cpp/DataMapReader.hpp>
+#include <csaru-datamap-cpp/DataMapMutator.hpp>
+#include <csaru-datamap-cpp/DataMapReader.hpp>
 
 namespace CSaruSerial {
 

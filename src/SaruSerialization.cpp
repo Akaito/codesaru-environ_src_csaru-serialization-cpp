@@ -20,7 +20,7 @@ freely, subject to the following restrictions:
 
 #include <cstring>
 
-#include <csaru-container-cpp/DataNode.hpp>
+#include <csaru-datamap-cpp/DataNode.hpp>
 
 #include "SaruSerialization.hpp"
 
